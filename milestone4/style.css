@@ -23,21 +23,21 @@ body {
 }
 
 .section-one {
-    grid-column: 3 / 7;
+    grid-column: 2 / 8;
     background-color: rgba(52, 152, 219, 0.2);
     min-height: 220px;
     padding: 20px;
 }
 
 .section-two {
-    grid-column: 3 / 7;
+    grid-column: 2 / 8;
     background-color: rgba(46, 204, 113, 0.3);
     min-height: 220px;
     padding: 20px;
 }
 
 .section-three {
-    grid-column: 3 / 7;
+    grid-column: 2 / 8;
     background-color: rgba(155, 89, 182, 0.3);
     min-height: 220px;
     padding: 20px;
